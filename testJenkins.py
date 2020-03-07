@@ -1,1 +1,1 @@
-print "Python dijalankan dari jenkins"
+print "Jenkins berhasil dijalankan"
